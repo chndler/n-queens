@@ -15,7 +15,7 @@ To run single threaded instance
 ```
 
 ## Examples 
-Ran on 2021 Apple MacBook Pro w/ M1 Max CPU: 
+Ran on 2021 MacBook Pro w/ M1 Max CPU: 
 ```bash
 % ./single-thread 12
 Single thread
