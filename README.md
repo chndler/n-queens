@@ -14,7 +14,8 @@ To run single threaded instance
 ./single-thread <numqueens>
 ```
 
-## Examples (ran on 2021 Apple MacBook Pro w/ M1 Max CPU: 
+## Examples 
+Ran on 2021 Apple MacBook Pro w/ M1 Max CPU: 
 ```bash
 % ./single-thread 12
 Single thread
